@@ -206,8 +206,13 @@ Final reporting activities included:
 ## Security Testing Tools
 - Burp Suite Professional
 - OWASP ZAP
+- Acunetix
 - SQLMap
-- FFUF
+- JSQL
+- Katana
+- Dalfox
+- Fuxploider
+- Browser Plugins and Extensions
 
 ---
 
